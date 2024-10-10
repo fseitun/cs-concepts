@@ -1,0 +1,7 @@
+{
+  "name": "tagged-templates",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "packageManager": "yarn@4.5.0"
+}
