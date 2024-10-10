@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "target": "EsNext",
+    "experimentalDecorators": true,
+    "emitDecoratorMetadata": true,
+    "moduleResolution": "NodeNext",
+    "module": "NodeNext",
+    "outDir": "dist"
+  }
+}
